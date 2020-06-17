@@ -2,6 +2,7 @@ body {
   overflow-x: hidden;
   font-family: 'Playfair Display', sans-serif;
   color: #505962;
+  min-width: 100vw;
 }
 .nav-link {
   color: white;
